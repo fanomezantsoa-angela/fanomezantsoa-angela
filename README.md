@@ -13,7 +13,7 @@
 - 💻 Passionate about Web Development and Software Architecture
 - 🔧 Interested in Backend development and application design
 - 📚 Currently learning advanced Spring Boot & Angular
-- 🎯 Looking for a 3–6 month internship in Web Development
+
 
 ---
 
