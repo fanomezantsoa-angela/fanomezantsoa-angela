@@ -55,7 +55,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0052CC?style=for-the-badge&logo=cloud&logoColor=white)
 ---
 
 ### 🔗 APIs & Architecture
